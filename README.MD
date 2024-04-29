@@ -33,9 +33,9 @@
 ```
 
 ## Chronogrammes
-![Chronogram 1](./chrono_01)
+![Chronogram 1](./Images/chrono_01)
 
-![Chronogram 2](./chrono_02)
+![Chronogram 2](./Images/chrono_02)
 
 ### 7. Quel est l’IPC du programme (01_main.S) dans votre circuit logisim ? Pour ce calcul vous ne tiendrez pas compte des instructions NOP à la fin du programme?
 ```
