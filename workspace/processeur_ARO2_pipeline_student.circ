@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project integrity="ea22048e158c3e22c267d6f150e238f2ad183633" source="2.16.8.t" version="1.0">
+<project integrity="856cad7e77611f8137988174c86beeda671d58b9" source="2.16.8.t" version="1.0">
   This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
 
   <lib desc="#Wiring" name="0">
@@ -18395,10 +18395,6 @@ end TCL_Generic;
       <a name="uuid" val="fc8ed554-5d76-4b10-ae50-7c994b6b356d"/>
       <a name="integrity" val="92e1b23ade8bf41bc112f415cd95dfd46208e59b"/>
     </comp>
-    <comp lib="0" loc="(740,620)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="mem_access_en_s"/>
-    </comp>
     <comp lib="0" loc="(1150,620)" name="Tunnel">
       <a name="label" val="reg_bank_4_s"/>
     </comp>
@@ -18688,6 +18684,10 @@ end TCL_Generic;
     <comp lib="0" loc="(1070,1160)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="reg_bank_4_s"/>
+    </comp>
+    <comp lib="0" loc="(740,620)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="reg_bank_write_en_s"/>
     </comp>
     <comp lib="7" loc="(4,50)" name="Text" trackercomp="true">
       <a name="text" val="Attention, votre version de Logisim"/>
